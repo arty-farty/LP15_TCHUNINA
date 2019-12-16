@@ -20,7 +20,7 @@ def main(age):
     elif 17 < age <=22:
         return "Студентик"
     elif 22 < age <= 65:
-        return("Работничек")
+        return "Работничек"
     else:
         return "Пенсионер, похоже"
 
